@@ -1,6 +1,7 @@
 # Simulador_Cajero_JAVA
 
 Proyecto desarrollado en Java que simula la operativa de un cajero automático real y la gestión interna de un banco. Diseñado como práctica integradora para consolidar conceptos avanzados de Programación Orientada a Objetos (POO).
+Proyecto desarrollado por motivación propia.
 
 ## 🚀 Tecnologías y Conceptos Aplicados
 
@@ -26,4 +27,4 @@ Proyecto desarrollado en Java que simula la operativa de un cajero automático r
 
 **Matias Aiello**
 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) en busca de oportunidades para realizar la FCT (Prácticas).
-- []
+- www.linkedin.com/in/matiasAiello27
