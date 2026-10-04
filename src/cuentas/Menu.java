@@ -18,7 +18,7 @@ public class Menu {
 		boolean cajeroEncendido = true;
 
 		while (cajeroEncendido) {
-			System.out.println("----------Bienvenido a Bancos Capitolio----------\n\n");
+			System.out.println("----------Bienvenido a Bancos Capitolio XXX----------\n\n");
 
 			do {
 
